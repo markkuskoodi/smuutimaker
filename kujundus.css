@@ -15,7 +15,7 @@
 }
 
 
-.pealkiri{
+h1.pealkiri{
     position: absolute;
     left: 36%;
     top: -5%;
@@ -24,15 +24,15 @@
     font-family: pealkiri;
 }
 
-.autorid{
+h2.autorid{
     position: absolute;
-    top: 20%;
+    top: 15%;
     left: 41%;
     font-family: pealkiri;
     font-size: 30;
 }
 
-.küsimus1{
+p.küsimus1{
     position: absolute;
     left: 8.3%;
     font-size: 45;
