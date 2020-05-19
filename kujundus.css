@@ -18,18 +18,15 @@
 h1.pealkiri{
     position: absolute;
     left: 36%;
-    top: -5%;
     font-size: 102;
     font-weight: bold;
     font-family: pealkiri;
 }
 
-h2.autorid{
+.autorid{
     position: absolute;
-    top: 15%;
-    left: 41%;
-    font-family: pealkiri;
-    font-size: 30;
+    left: 35%;
+    font-weight: bold;
 }
 
 p.küsimus1{
@@ -74,6 +71,12 @@ p.küsimus1{
 
 hr.jutt{
     margin-top: 425px;
+    margin-left: 30px;
+    margin-right: 33px;
+}
+
+hr.jutt2{
+    margin-top: 475px;
     margin-left: 30px;
     margin-right: 33px;
 }
