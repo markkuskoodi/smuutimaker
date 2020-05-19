@@ -18,6 +18,7 @@
 h1.pealkiri{
     position: absolute;
     left: 36%;
+    top: -5%;
     font-size: 102;
     font-weight: bold;
     font-family: pealkiri;
