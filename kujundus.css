@@ -1,0 +1,98 @@
+.tagataust{
+    background-image: url("smuuti.jpg");
+
+    height: 150%;
+    
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@font-face{
+    font-family: pealkiri;
+    src: url("Simple\ script.ttf")
+}
+
+
+.pealkiri{
+    position: absolute;
+    left: 36%;
+    top: -5%;
+    font-size: 102;
+    font-weight: bold;
+    font-family: pealkiri;
+}
+
+.autorid{
+    position: absolute;
+    top: 15%;
+    left: 41%;
+    font-family: pealkiri;
+    font-size: 30;
+}
+
+.küsimus1{
+    position: absolute;
+    left: 8.3%;
+    font-size: 45;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.küsimus2{
+    position: absolute;
+    left: 20.7%;
+    top: 7%;
+    font-size: 45;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.küsimus3{
+    position: absolute;
+    top: 14%;
+    left: 27.5%;
+    font-size: 45;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.küsimus4{
+    position: absolute;
+    top: 21%;
+    left: 19%;
+    font-size: 45;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.vastus{
+    margin-left: 10px;
+    position: absolute;
+    left: 2.5%;
+    top: 30%;
+    font-size: 30;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr.jutt{
+    margin-top: 425px;
+    margin-left: 30px;
+    margin-right: 33px;
+}
+
+.tutvustus{
+    position: absolute;
+    margin-left: 22px;
+    margin-right: 22px;
+    top: 42%;
+    font-size: 25;
+    text-align: justify;
+}
+
+.esimenediv{
+    position: absolute;
+    left: 25%;
+    top: 30%;
+    width: 900px;
+    height: 1050px;
+    border-radius: 12px;
+    background-color: seashell;
+}
